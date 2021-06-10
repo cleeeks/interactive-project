@@ -9,6 +9,11 @@ header:
 ---
 
 # Results
+<div style="text-align: justify"> 
 To be announced
+</div>
+<p></p>
 # Publications
+<div style="text-align: justify"> 
 To be announced
+</div>

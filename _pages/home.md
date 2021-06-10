@@ -19,3 +19,11 @@ From a scientific, technical perspective, INTERACTIVE will (i) design federated,
 
 
 
+
+
+<div class="flex xs12" style="margin-left: 0px; margin-right: 80px; margin-bottom: 20px; margin-top: 200px;">INTERACTIVE maintained by <a href="https://github.com/behas" style="color: black;">Dr. Bernhard Haslhofer</a><br> Last update: 10.06.2021 <br> Published with <a href="https://pages.github.com/" style="color: black;">GitHub Pages</a></div>
+
+
+
+
+

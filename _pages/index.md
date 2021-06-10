@@ -14,11 +14,10 @@ header:
 excerpt: "Interactive Training and Deployment of Predictive AI Models in Distributed Edge Computing Environments"
 ---
 
+**INTERACTIVE** aims to investigate workflows and algorithmic methods that enable machine learning in edge computing environments despite insufficient ground-truth data. They will be implemented for two distinct Proof-of-Concept (PoC) use cases: product quality prediction in high-performance automation (STIWA), and predictive maintenance for cooling facilities (HAUSER). The expected results and innovations are (i) machine learning workflows and lifecycles designed for distributed AI architectures, (ii) software libraries tackling the missing ground-truth problem by supporting incremental data labelling and model training, (iii) federated learning approaches enabling model training and updates on edge devices without transferring large amounts of raw data to central servers, and (iv) PoCs for both use cases allowing assessment of benefits on the technical, operational, and busines level.
 
-**INTERACTIVE** aims to increase the efficiency of distributed industrial applications through **Active** and **Federated Learning** methods.
 
 
-<div class="flex xs12" style="margin-left: 0px; margin-right: 80px; margin-bottom: 20px; margin-top: 200px;"> COGNITUS maintained by <a href="https://github.com/behas" style="color: black;">Dr. Bernhard Haslhofer</a><br> Last update: 10.06.2021 <br> Published with <a href="https://pages.github.com/" style="color: black;">GitHub Pages</a></div>
 
 
 

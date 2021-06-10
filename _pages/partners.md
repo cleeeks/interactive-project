@@ -1,20 +1,26 @@
 ---
-layout: default
-title: Partners
+layout: single
+title: Project Partners
 permalink: /partners/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: assets/images/splash.svg
 ---
 
-# Austrian Institute of Technology
 
+# Austrian Institute of Technology
 <div class='wrapper'>
     <div class='centered'>
 
 <a href="https://www.ait.ac.at/">AIT</a>, which is Austria's largest research and technology organization, will be involved with two competence units: Data Science & Artificial Intelligence (DSAI) as well as Technology Experience (TE). Capabilities of AIT are: Data Science & Artificial Intelligence with a strong focus on machine learning, software development, experience in running horizontally scalable cluster infrastructures, as well as a deep and cross-domain understanding of user experience assessment and interaction design for ubiquitous automated environments.
+
        <div class='left'>
  		<img src="./../assets/images/AIT.png" style="width : 550px; height: auto;"/>
         </div>
     </div>
 </div>
+
 
 
 # Siemens AG Österreich

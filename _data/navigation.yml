@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Home"
+    url: /home/
+  - title: "Partners"
+    url: /partners/
+  - title: "Results"
+    url: /results/
+  - title: "Contact"
+    url: /contact/
+

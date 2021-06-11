@@ -34,6 +34,7 @@ learning workflows by integrating human feedback into the learning process."
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
 <div style="text-align: justify"> 
 
 

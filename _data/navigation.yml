@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: /
+  - title: "Overview"
+    url: /overview/
   - title: "Partners"
     url: /partners/
   - title: "Results"

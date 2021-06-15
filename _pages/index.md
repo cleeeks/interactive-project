@@ -12,7 +12,9 @@ header:
       url: /home/
 
 excerpt: "Interactive Training and Deployment of Predictive AI Models in Distributed Edge Computing Environments"
-
+intro: 
+  - title: '
+The goal of INTERACTIVE is to design and develop workflows and algorithmic methods that enable machine learning in distributed edge computing environments despite missing or insufficient ground-truth data.'
 
 feature_row:
   - image_path: assets/images/icon1.svg
@@ -31,8 +33,8 @@ learning workflows by integrating human feedback into the learning process."
 ---
 
 
-
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="_intro" type="center" %}
+The goal of INTERACTIVE is to design and develop workflows and algorithmic methods that enable machine learning in distributed edge computing environments despite missing or insufficient ground-truth data.
 
 {% include feature_row  %}
 

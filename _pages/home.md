@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Project Overview 
-permalink: /home/
+permalink: /overview/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -25,9 +25,21 @@ header:
 </div>
 <p></p>
 
+# About
+
+* Funding frame: Produktion der Zukunft, Produktion der Zukunft, 36. AS PdZ - Nationale Projekte 2020
+* Project duration: 24 months
+* Project start: 01.04.2021
+* Project coordinator: AIT Austrian Institute of Technology GmbH
+
+
+
+
+
+
 
 <div class="flex xs12" style="margin-left: 0px; margin-right: 80px; margin-bottom: 20px; margin-top: 200px;">INTERACTIVE maintained by <a href="https://github.com/behas" style="color: black;">Dr. Bernhard Haslhofer</a><br>
-Programm: Produktion der Zukunft - 36. AS PdZ - Nationale Projekte 2020 - 883855 <br>
+
 Last update: 10.06.2021 <br> 
 Published with <a href="https://pages.github.com/" style="color: black;">GitHub Pages</a></div>
 

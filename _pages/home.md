@@ -26,10 +26,6 @@ header:
 <p></p>
 
 
-
-
-
-
 <div class="flex xs12" style="margin-left: 0px; margin-right: 80px; margin-bottom: 20px; margin-top: 200px;">INTERACTIVE maintained by <a href="https://github.com/behas" style="color: black;">Dr. Bernhard Haslhofer</a><br>
 Programm: Produktion der Zukunft - 36. AS PdZ - Nationale Projekte 2020 - 883855 <br>
 Last update: 10.06.2021 <br> 

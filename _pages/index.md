@@ -9,7 +9,7 @@ header:
   overlay_image: assets/images/splash.svg
   actions:
     - label: "Learn More"
-      url: /home/
+      url: /overview/
 
 excerpt: "Interactive Training and Deployment of Predictive AI Models in Distributed Edge Computing Environments"
 intro: 

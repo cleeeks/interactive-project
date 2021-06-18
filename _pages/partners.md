@@ -50,7 +50,7 @@ header:
 
 <div class='wrapper'>
     <div class='centered'>
-As a project partner, <a href="http://hauser.com/">HAUSER</a> has 70 years of experience in the field of refrigeration technology. In connection with the project INTERACTIVE, HAUSER evaluates results from data analysis of cooling Systems with the project partners AIT & Siemens. Capabilities
+As a project partner, <a href="http://hauser.com/">HAUSER</a> has 70 years of experience in the field of refrigeration technology. In connection with the project INTERACTIVE, HAUSER evaluates results from data analysis of cooling Systems with the project partners AIT & Siemens. 
        <div class='left'>
 <img src="./../assets/images/Hauser2.png" style="width : 250px; height: auto;"/>  
         </div>
